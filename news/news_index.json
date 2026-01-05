@@ -1,17 +1,18 @@
 {
-    "latest_date": "2026-01-04",
+    "latest_date": "2026-01-07",
     "articles": [
+        {
+            "date": "2026-01-07",
+            "title": "Test 7th",
+            "preview": "Текст превью для новости на 7 января",
+            "filename": "07-01-2026.json"
+        },
         {
             "date": "2026-01-04",
             "title": "Welcome to FruityNest News!",
             "preview": "We're excited to launch our news system!",
             "filename": "04-01-2026.json"
         },
-        {
-            "date": "2025-01-04",
-            "title": "Welcome to StackEdit!",
-            "preview": "First article about StackEdit features",
-            "filename": "04-01-2025.json"
-        }
+
     ]
 }
