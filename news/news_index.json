@@ -4,7 +4,7 @@
         {
             "date": "2026-01-07",
             "title": "Test 7th",
-            "preview": "7ttt",
+            "preview": "Текст превью для новости на 7 января",
             "filename": "07-01-2026.json"
         },
         {
@@ -12,7 +12,6 @@
             "title": "Welcome to FruityNest News!",
             "preview": "We're excited to launch our news system!",
             "filename": "04-01-2026.json"
-        },
-
+        }
     ]
 }
