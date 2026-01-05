@@ -1,25 +1,6 @@
-<h2 style="color: #E67E22; font-size: 20px; margin-bottom: 15px;">🎉 Tiësto Closes “CLUBLIFE” Radio Show After 18 Years</h2>
-
-<p style="color: #B8A082; font-size: 12px; margin-bottom: 10px;">
-After 18 years of shaping the EDM scene, Tiësto has aired the final episode of his legendary CLUBLIFE radio show. The 978th episode, broadcast on New Year’s Eve, features 30 of the most iconic tracks from the show’s history.
-</p>
-
-<p style="color: #B8A082; font-size: 12px; margin-bottom: 10px;">
-<i>“We are closing the CLUBLIFE era. Over these 18 years, we’ve seen countless artists emerge, styles evolve, and electronic music reach new heights. I’m grateful to keep performing worldwide, meet talented artists, and share that connection with the crowds,”</i> said Tiësto.
-</p>
-
-<p style="color: #B8A082; font-size: 12px; margin-bottom: 10px;">
-The farewell episode revisits anthems like Avicii’s <b>Levels</b>, Zedd’s <b>Clarity</b>, deadmau5’s <b>Strobe</b>, Porter Robinson’s <b>Language</b>, and Martin Garrix’s <b>Animals</b>.
-</p>
-
-<p style="color: #B8A082; font-size: 12px; margin-bottom: 10px;">
-This marks not only the end of a radio era but also Tiësto’s return to trance, the genre that launched his career, kicking off with his new single <b>Bring Me To Life</b>.
-</p>
-
-<div style="margin: 15px 0;">
-<p style="color: #808080; font-size: 10px; margin-bottom: 5px;">🎬 Final CLUBLIFE Episode</p>
-<a href="https://www.youtube.com/watch?v=FINAL_EPISODE_ID">
-<img src="https://img.youtube.com/vi/FINAL_EPISODE_ID/mqdefault.jpg" style="width: 100%; max-width: 320px; border-radius: 4px;">
-</a>
-<p style="color: #555; font-size: 10px; margin-top: 5px;">Click to watch on YouTube</p>
-</div>
+{
+  "title": "Tiësto Closes CLUBLIFE Radio Show After 18 Years",
+  "date": "2026-01-05",
+  "author": "FruityNest Team",
+  "html_content": "<h2 style='color: #E67E22; font-size: 20px; margin-bottom: 15px;'>🎉 Tiësto Closes CLUBLIFE Radio Show After 18 Years</h2><p style='color: #B8A082; font-size: 12px; margin-bottom: 10px;'>After 18 years of shaping the EDM scene, Tiësto has aired the final episode of his legendary CLUBLIFE radio show. The 978th episode, broadcast on New Year’s Eve, features 30 of the most iconic tracks from the show’s history.</p><p style='color: #B8A082; font-size: 12px; margin-bottom: 10px;'><i>“We are closing the CLUBLIFE era. Over these 18 years, we’ve seen countless artists emerge, styles evolve, and electronic music reach new heights. I’m grateful to keep performing worldwide, meet talented artists, and share that connection with the crowds,”</i> said Tiësto.</p><p style='color: #B8A082; font-size: 12px; margin-bottom: 10px;'>The farewell episode revisits anthems like Avicii’s <b>Levels</b>, Zedd’s <b>Clarity</b>, deadmau5’s <b>Strobe</b>, Porter Robinson’s <b>Language</b>, and Martin Garrix’s <b>Animals</b>.</p><p style='color: #B8A082; font-size: 12px; margin-bottom: 10px;'>This marks not only the end of a radio era but also Tiësto’s return to trance, the genre that launched his career, kicking off with his new single <b>Bring Me To Life</b>.</p><div style='margin: 15px 0;'><p style='color: #808080; font-size: 10px; margin-bottom: 5px;'>🎬 Final CLUBLIFE Episode</p><a href='https://www.youtube.com/watch?v=Q6pNkxgpr2U'><img src='https://img.youtube.com/vi/Q6pNkxgpr2U/mqdefault.jpg' style='width: 100%; max-width: 320px; border-radius: 4px;'></a><p style='color: #555; font-size: 10px; margin-top: 5px;'>Click to watch on YouTube</p></div>"
+}
